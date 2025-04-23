@@ -4,12 +4,12 @@ Web-based inventory management application built with Spring Boot.
 ## Development info
 <b>App:</b> Inventory-Pro <br>
 <b>Version:</b> 1.0.0 <br>
-<b>Author:</b> Tech. Ing. Filip Smółka
-<b>Framework:</b> Spring Framework
+<b>Author:</b> Tech. Ing. Filip Smółka <br>
+<b>Framework:</b> Spring Framework <br>
 <b>Stack:</b> Java/JS/HTML/
 
 ## Contanct and troubleshooting
-<b>Email:</b> philipsmolka.business@gmail.com
+<b>Email:</b> philipsmolka.business@gmail.com <br>
 <b>Phone number:</b> +48 530 750 438
 
 ## 📦 Features ( v. 1.0.0 )
