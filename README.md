@@ -6,7 +6,7 @@ Web-based inventory management application built with Spring Boot.
 <b>Version:</b> 1.0.0 <br>
 <b>Author:</b> Tech. Ing. Filip Smółka <br>
 <b>Framework:</b> Spring Framework <br>
-<b>Stack:</b> Java/JS/HTML/
+<b>Stack:</b> Java/JS/HTML/SQL/Cloud 
 
 ## Contanct and troubleshooting
 <b>Email:</b> philipsmolka.business@gmail.com <br>
