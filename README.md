@@ -2,8 +2,8 @@
 Web-based inventory management application built with Spring Boot. 
 
 ## Development info
-App: Inventory-Pro 
-Version: 1.0.0
+App: Inventory-Pro <br>
+Version: 1.0.0 <br>
 Author: Tech. Ing. Filip Smółka
 
 ## 📦 Features
