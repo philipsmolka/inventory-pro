@@ -1,4 +1,4 @@
-# inventory-pro
+# Inventory-pro
 Web-based inventory management application built with Spring Boot. 
 
 ## Development info
