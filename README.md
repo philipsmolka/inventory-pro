@@ -6,7 +6,7 @@ Web-based inventory management application built with Spring Boot.
 <b>Version:</b> 1.0.0 <br>
 <b>Author:</b> Tech. Ing. Filip Smółka
 
-## 📦 Features
+## 📦 Features ( v. 1.0.0 ) 
 
 This application provides a complete inventory management solution, allowing you to:
 
@@ -19,7 +19,6 @@ This application provides a complete inventory management solution, allowing you
   - New locations
   - Departments and divisions
   - Item categories
-- 📄 **Scan and audit** physical inventory to verify and synchronize with the digital database.
 
 The system is designed to be flexible and easily extensible, making it an ideal tool for inventory management in businesses, institutions, and organizations of any size.
 
