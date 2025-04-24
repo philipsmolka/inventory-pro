@@ -1,37 +1,241 @@
-TRIAL LICENSE AGREEMENT
+Language: US
 
-IMPORTANT: READ CAREFULLY BEFORE DOWNLOADING, INSTALLING, OR USING THIS SOFTWARE.
+# NON-COMMERCIAL OPEN SOURCE LICENSE AGREEMENT
 
-By downloading, installing, or using this software (the "Software"), you agree to be bound by the terms and conditions of this Trial License Agreement (the "Agreement"). If you do not agree to the terms and conditions of this Agreement, do not download, install, or use the Software.
+IMPORTANT: READ CAREFULLY BEFORE DOWNLOADING, INSTALLING, MODIFYING, OR USING THIS SOFTWARE.
 
-1. **Trial License Grant**:
-   You are granted a non-exclusive, non-transferable, revocable license to use the Software for a period of **30 days** (the "Trial Period") solely for personal, non-commercial purposes. After the Trial Period expires, you must purchase a paid license to continue using the Software.
+By downloading, installing, modifying, or using this software (the "Inventory Pro"), you agree to the terms of this Non-Commercial Open Source License Agreement (the "Agreement"). If you do not agree, do not download, install, modify, or use the Software.
 
-2. **Restrictions on Use**:
-   a. You may not use, distribute, or allow others to use the Software for any commercial, business, or revenue-generating purposes during the Trial Period.
-   b. You may not reverse engineer, decompile, or disassemble the Software, except where such activity is expressly permitted by applicable law.
-   c. You may not modify, copy, or create derivative works based on the Software, except as expressly permitted by this Agreement.
+---
 
-3. **License Activation**:
-   After the expiration of the Trial Period, continued use of the Software requires the activation of a **paid license**. The Software will cease to function if no paid license is activated. Pricing details and payment instructions are available on [Your Licensing Website].
+## 1. **License Grant (Non-Commercial Use Only)**
 
-4. **Updates and Support**:
-   During the Trial Period, you will receive updates to the Software and access to basic support. After the Trial Period, updates and support are available only to users who have purchased a paid license.
+You are granted a non-exclusive, non-transferable, revocable license to use, study, modify, and contribute to the Software **solely for non-commercial and personal or research purposes**. 
 
-5. **Termination**:
-   This license is effective until terminated. It will terminate automatically if you fail to comply with any of the terms of this Agreement. Upon termination, you must immediately cease using the Software and delete all copies from your systems.
+Commercial use of any kind is strictly prohibited. This includes but is not limited to:
+- Use within or by businesses or organizations for internal or external purposes.
+- Offering services that rely on the Software.
+- Distributing the Software as part of a paid product or service.
 
-6. **No Warranty**:
-   The Software is provided "as is," without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the Software is with you.
+---
 
-7. **Limitation of Liability**:
-   In no event shall the Licensor be liable for any damages (including, without limitation, direct, indirect, incidental, special, consequential, or punitive damages) arising out of the use of or inability to use the Software, even if the Licensor has been advised of the possibility of such damages.
+## 2. **Open Source Contributions**
 
-8. **Commercial Use**:
-   You may not use the Software for any commercial purposes during the Trial Period. To use the Software for commercial purposes, you must obtain a paid commercial license.
+You may contribute to the development of the Software, including submitting code, reporting bugs, and proposing improvements. However, contributing to the Software does **not** grant you or any third party the right to use it for commercial purposes.
 
-9. **General Terms**:
-   a. This Agreement constitutes the entire agreement between you and the Licensor regarding the Software and supersedes all prior or contemporaneous agreements and understandings, whether written or oral, relating to the Software.
-   b. If any provision of this Agreement is found to be unenforceable, the remaining provisions shall continue in full force and effect.
+All contributions become part of the Software and remain under this license.
 
-For more information or to purchase a commercial license, please contact [Your Contact Information] or visit [Your Licensing Website].
+---
+
+## 3. **Prohibited Uses**
+
+You may not:
+- Use the Software, or any derivative works, in any commercial context.
+- Sell, rent, sublicense, or distribute the Software for profit.
+- Integrate the Software into commercial products or services.
+- Use the Software for any revenue-generating activity.
+
+---
+
+## 4. **No Warranty**
+
+The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose.
+
+---
+
+## 5. **Limitation of Liability**
+
+In no event shall the authors or copyright holders be liable for any damages arising from the use of the Software.
+
+---
+
+## 6. **Termination**
+
+This license is effective until terminated. It will terminate automatically if you violate any of its terms. Upon termination, you must cease all use and delete all copies of the Software.
+
+---
+
+## 7. **General Terms**
+
+a. This Agreement constitutes the entire agreement between you and the Licensor.
+b. If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+---
+
+For questions or to request a special exception for commercial use, please contact: philipsmolka.business@gmail.com
+
+Język: Polski 
+
+# NIEKOMERCYJNA UMOWA LICENCYJNA OPEN SOURCE
+
+WAŻNE: PRZECZYTAJ UWAŻNIE PRZED POBRANIEM, INSTALACJĄ, MODYFIKACJĄ LUB UŻYCIEM TEGO OPROGRAMOWANIA.
+
+Pobierając, instalując, modyfikując lub używając tego oprogramowania („Oprogramowanie”), zgadzasz się na warunki niniejszej Umowy Licencyjnej Open Source do Użytku Niekomercyjnego („Umowa”). Jeśli nie zgadzasz się z warunkami, nie pobieraj, nie instaluj ani nie używaj tego oprogramowania.
+
+---
+
+## 1. **Licencja (Tylko do użytku niekomercyjnego)**
+
+Otrzymujesz niewyłączną, nieprzenoszalną, odwoływalną licencję na używanie, analizowanie, modyfikowanie i współtworzenie Oprogramowania **wyłącznie do celów niekomercyjnych, osobistych lub badawczych**.
+
+**Wszelkie użycie komercyjne jest surowo zabronione.**
+
+---
+
+## 2. **Wkład w rozwój**
+
+Możesz zgłaszać błędy, poprawki i przesyłać kod. Jednak wkład w rozwój nie daje Ci prawa do wykorzystania Oprogramowania komercyjnie — nawet jeśli część kodu pochodzi od Ciebie.
+
+---
+
+## 3. **Zakazy**
+
+Nie wolno Ci:
+- Używać oprogramowania w celach komercyjnych.
+- Sprzedawać, wynajmować, sublicencjonować lub dystrybuować za opłatą.
+- Używać jako części produktu komercyjnego.
+
+---
+
+## 4. **Brak gwarancji**
+
+Oprogramowanie dostarczane jest „jak jest”, bez jakiejkolwiek gwarancji.
+
+---
+
+## 5. **Ograniczenie odpowiedzialności**
+
+Autorzy nie ponoszą odpowiedzialności za jakiekolwiek szkody wynikające z użytkowania Oprogramowania.
+
+---
+
+## 6. **Zakończenie licencji**
+
+Licencja wygasa automatycznie w przypadku naruszenia warunków. Po zakończeniu musisz usunąć wszystkie kopie oprogramowania.
+
+---
+
+## 7. **Postanowienia ogólne**
+
+a. Niniejsza umowa stanowi całość porozumienia.
+b. Nieważność jednego punktu nie unieważnia całości.
+
+W razie pytań: philipsmolka.business@gmail.com
+
+
+Sprache: Deutsch
+
+# NICHT-KOMMERZIELLE OPEN-SOURCE-LIZENZVEREINBARUNG
+
+WICHTIG: BITTE LESEN SIE DIESE VEREINBARUNG SORGFÄLTIG DURCH, BEVOR SIE DIE SOFTWARE HERUNTERLADEN, INSTALLIEREN ODER VERWENDEN.
+
+Durch das Herunterladen, Installieren, Modifizieren oder Verwenden dieser Software ("Software") erklären Sie sich mit den Bedingungen dieser nicht-kommerziellen Open-Source-Lizenzvereinbarung ("Vereinbarung") einverstanden. Wenn Sie diesen Bedingungen nicht zustimmen, dürfen Sie die Software nicht verwenden.
+
+---
+
+## 1. **Lizenz (nur für nicht-kommerzielle Nutzung)**
+
+Ihnen wird eine nicht-exklusive, nicht übertragbare, widerrufbare Lizenz zur Nutzung, Analyse, Modifikation und Mitentwicklung der Software **ausschließlich für nicht-kommerzielle, persönliche oder Forschungszwecke** erteilt.
+
+**Jegliche kommerzielle Nutzung ist strengstens untersagt.**
+
+---
+
+## 2. **Beitrag zur Entwicklung**
+
+Sie dürfen zur Software beitragen, jedoch verleiht Ihnen dies **keine kommerziellen Nutzungsrechte**, selbst wenn Ihr Code Teil der Software wird.
+
+---
+
+## 3. **Verbotene Nutzung**
+
+Sie dürfen die Software **nicht**:
+- kommerziell nutzen,
+- verkaufen, vermieten oder gegen Entgelt weitergeben,
+- in kommerziellen Produkten oder Services integrieren.
+
+---
+
+## 4. **Keine Garantie**
+
+Die Software wird „wie sie ist“ ohne jegliche ausdrückliche oder stillschweigende Gewährleistung bereitgestellt.
+
+---
+
+## 5. **Haftungsbeschränkung**
+
+Die Autoren haften nicht für Schäden aus der Nutzung oder Nichtverwendbarkeit der Software.
+
+---
+
+## 6. **Beendigung der Lizenz**
+
+Die Lizenz erlischt automatisch bei einem Verstoß. Sie müssen dann alle Kopien der Software löschen.
+
+---
+
+## 7. **Allgemeine Bestimmungen**
+
+a. Diese Vereinbarung ist die vollständige Vereinbarung zwischen den Parteien.
+b. Sollte eine Bestimmung ungültig sein, bleiben die übrigen gültig.
+
+Kontakt: philipsmolka.business@gmail.com
+
+Язык: русский
+
+# НЕКОММЕРЧЕСКАЯ ЛИЦЕНЗИЯ OPEN SOURCE
+
+ВАЖНО: ВНИМАТЕЛЬНО ПРОЧТИТЕ ПЕРЕД ЗАГРУЗКОЙ, УСТАНОВКОЙ, ИСПОЛЬЗОВАНИЕМ ИЛИ МОДИФИКАЦИЕЙ ЭТОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ.
+
+Загружая, устанавливая, изменяя или используя это программное обеспечение («Программа»), вы соглашаетесь с условиями данной Некоммерческой Лицензии Open Source («Лицензия»). Если вы не согласны, не используйте это программное обеспечение.
+
+---
+
+## 1. **Лицензия (только для некоммерческого использования)**
+
+Вам предоставляется неисключительная, непередаваемая, отзывная лицензия на использование, изучение, изменение и участие в разработке Программы **исключительно в личных, некоммерческих или исследовательских целях**.
+
+**Любое коммерческое использование строго запрещено.**
+
+---
+
+## 2. **Вклад в разработку**
+
+Вы можете вносить предложения, багрепорты и изменения. Однако даже при участии в разработке **вам не разрешается использовать Программу в коммерческих целях**.
+
+---
+
+## 3. **Запрещённые действия**
+
+Запрещается:
+- использовать Программу в коммерческих целях,
+- продавать, сдавать в аренду или распространять за плату,
+- включать в коммерческие продукты или сервисы.
+
+---
+
+## 4. **Отказ от гарантий**
+
+Программа предоставляется «как есть», без каких-либо гарантий.
+
+---
+
+## 5. **Ограничение ответственности**
+
+Автор(ы) не несут ответственности за любой ущерб, возникший в результате использования Программы.
+
+---
+
+## 6. **Прекращение лицензии**
+
+Лицензия автоматически прекращается при нарушении условий. После прекращения вы обязаны удалить все копии Программы.
+
+---
+
+## 7. **Общие положения**
+
+a. Это полное соглашение между сторонами.
+b. Недействительность одного пункта не отменяет остальных.
+
+Контакт для связи: philipsmolka.business@gmail.com
+
